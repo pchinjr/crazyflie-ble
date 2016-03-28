@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jordankid93/BLECrazyflie_NodeJS",
   "dependencies": {
     "bufferpack": "0.0.6",
-    "noble": "^0.3.14"
+    "noble": "^1.0.0"
   },
   "devDependencies": {
     "jshint": "^2.7.0"

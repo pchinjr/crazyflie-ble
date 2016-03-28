@@ -36,6 +36,6 @@ The callback function should follow the (err, obj) argument structure, passing i
 
 ## Examples
 
-### Hover [untested]
+### Hover - kinda tested / it does fly the drone up and down. 
 
-To run the hover example run `npm run-script hover` from within the root directory of the package
+To run the hover example run `npm run hover` from within the root directory of the package
